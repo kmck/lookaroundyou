@@ -1,0 +1,28 @@
+{
+  "name": "lookaroundyou",
+  "version": "1.0.0",
+  "description": "> 10 PRINT \"LOOK AROUND YOU \";",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "lookaroundyou": "./bin/look-around-you.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/kmck/lookaroundyou"
+  },
+  "keywords": [
+    "look",
+    "around",
+    "you",
+    "yes"
+  ],
+  "author": "Keith McKnight",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
