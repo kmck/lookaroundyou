@@ -7,7 +7,7 @@ Look Around You
 
     >10 PRINT "LOOK AROUND YOU ";
     >20 GOTO 10
-    > RUN
+    >RUN
 
 ## Installation
 
