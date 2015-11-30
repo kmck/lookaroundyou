@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-var process = require('process');
 var minimist = require('minimist');
 var lookAroundYou = require('../lib/look-around-you');
 

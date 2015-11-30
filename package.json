@@ -1,6 +1,6 @@
 {
   "name": "lookaroundyou",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> 10 PRINT \"LOOK AROUND YOU \";",
   "main": "index.js",
   "preferGlobal": true,
